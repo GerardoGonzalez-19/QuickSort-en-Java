@@ -1,1 +1,1 @@
-# QuickSort-en-Java
+Desarrollar la implementación del algoritmo QuickSort en Java. Quiero que el programa incluya un método main que muestre un arreglo de enteros antes y después de ser ordenado. El código debe estar completo y listo para compilar en un archivo llamado QuickSort.java.
